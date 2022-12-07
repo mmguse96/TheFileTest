@@ -1,0 +1,10 @@
+git init
+git add MyFile.txt
+
+git add info/*
+
+git config user.name Morgan_INFO
+
+git add Command.txt
+
+git status
